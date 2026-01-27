@@ -1,0 +1,1 @@
+BlobEndpoint=https://registeste.blob.core.windows.net/;SharedAccessSignature=sp=rcw&st=2026-01-16T12:43:32Z&se=2026-01-17T20:58:32Z&spr=https&sv=2024-11-04&sr=c&sig=iH2bq%2BhT1C%2FxrbEdDCORfQ3qzLSekGsLEBbnfMVP53g%3D
