@@ -15,6 +15,11 @@ source /etc/profile.d/java.sh
 # Verificar
 java -version
 
+proxy=http://_mom:MSopMN2006@bprspws-wcg:8080/
+
+
+
+
 
 # Testar conexão direta pelo proxy
 curl -v -x http://_mom:MSopMN200G@bprspws-wcg:8080 https://packages.confluent.io/rpm/7.9/
