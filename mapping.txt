@@ -18,6 +18,10 @@ java -version
 proxy=http://_mom:MSopMN2006@bprspws-wcg:8080/
 
 
+export http_proxy=http://_mom:MSopMN2006@bprspws-wcg:8080
+export https_proxy=http://_mom:MSopMN2006@bprspws-wcg:8080 
+
+
 sudo dnf clean all && sudo dnf makecache --disablerepo="*" --enablerepo="Confluent"
 
 user_agent=curl/7.76.1
