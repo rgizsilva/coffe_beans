@@ -18,6 +18,7 @@ java -version
 proxy=http://_mom:MSopMN2006@bprspws-wcg:8080/
 
 
+sudo dnf clean all && sudo dnf makecache --disablerepo="*" --enablerepo="Confluent"
 
 
 
