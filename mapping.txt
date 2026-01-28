@@ -18,3 +18,6 @@ java -version
 
 # Testar conexão direta pelo proxy
 curl -v -x http://_mom:MSopMN200G@bprspws-wcg:8080 https://packages.confluent.io/rpm/7.9/
+
+
+https://packages.confluent.io/archive/7.9/confluent-7.9.4.tar.gz?_ga=2.218067349.2070710263.1769628924-1383398243.1744644545&_gac=1.61765342.1767724937.Cj0KCQiAgvPKBhCxARIsAOlK_ErCyMwAbNCjttK3nNofJTdUF69Fldd3nT_5Qhi-eM9mJFHARO4NVWMaAoaVEALw_wcB&_gl=1*ffiivu*_gcl_aw*R0NMLjE3Njc3MjQ5MzcuQ2owS0NRaUFndlBLQmhDeEFSSXNBT2xLX0VyQ3lNd0FiTkNqdHRLM25Ob2ZKVGRVRjY5RmxkZDNuVF81UWhpLWVNOW1KRkhBUk80TlZXTWFBb2FWRUFMd193Y0I.*_gcl_au*MTI4Mzg2ODc1OS4xNzY5NjI4OTI0*_ga*MTM4MzM5ODI0My4xNzQ0NjQ0NTQ1*_ga_D2D3EGKSGD*czE3Njk2Mjg5MjQkbzE4OSRnMSR0MTc2OTYyODk2OSRqMTUkbDAkaDA.
