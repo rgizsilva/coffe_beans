@@ -1,0 +1,1 @@
+listener.name.internal.ssl.principal.mapping.rules: "RULE:^.*[Cc][Nn]=([a-zA-Z0-9._-]*).*$/$1/L,DEFAULT"
